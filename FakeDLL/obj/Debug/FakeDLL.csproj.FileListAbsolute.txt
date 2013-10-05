@@ -1,0 +1,5 @@
+c:\users\kevin\documents\visual studio 2012\Projects\WindowsPhoneUnityPlugin\FakeDLL\bin\Debug\WindowsPhoneUnityPlugin.dll
+c:\users\kevin\documents\visual studio 2012\Projects\WindowsPhoneUnityPlugin\FakeDLL\bin\Debug\WindowsPhoneUnityPlugin.pdb
+c:\users\kevin\documents\visual studio 2012\Projects\WindowsPhoneUnityPlugin\FakeDLL\obj\Debug\FakeDLL.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2012\Projects\WindowsPhoneUnityPlugin\FakeDLL\obj\Debug\WindowsPhoneUnityPlugin.dll
+c:\users\kevin\documents\visual studio 2012\Projects\WindowsPhoneUnityPlugin\FakeDLL\obj\Debug\WindowsPhoneUnityPlugin.pdb

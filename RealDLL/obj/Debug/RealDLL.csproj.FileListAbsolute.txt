@@ -1,0 +1,4 @@
+c:\users\kevin\documents\visual studio 2012\Projects\WindowsPhoneUnityPlugin\RealDLL\Bin\Debug\WindowsPhoneUnityPlugin.dll
+c:\users\kevin\documents\visual studio 2012\Projects\WindowsPhoneUnityPlugin\RealDLL\Bin\Debug\WindowsPhoneUnityPlugin.pdb
+c:\users\kevin\documents\visual studio 2012\Projects\WindowsPhoneUnityPlugin\RealDLL\obj\Debug\WindowsPhoneUnityPlugin.dll
+c:\users\kevin\documents\visual studio 2012\Projects\WindowsPhoneUnityPlugin\RealDLL\obj\Debug\WindowsPhoneUnityPlugin.pdb
