@@ -32,7 +32,7 @@ public class counter : MonoBehaviour {
 		if (player1)
 		{
 			GUI.Label (new Rect(284, 1200, 100, 60), count.ToString (), style);
-			GUI.Label (new Rect(284, 1050, 100, 60), timeLeft > 8 ? "COUNT!" : timeLeft.ToString (), style);
+			GUI.Label (new Rect(284, 1100, 100, 60), timeLeft > 8 ? "COUNT!" : timeLeft.ToString (), style);
 		}
 		else
 		{
@@ -40,7 +40,7 @@ public class counter : MonoBehaviour {
 			GUIUtility.RotateAroundPivot(180.0f, new Vector2(384, 640));
 			
 			GUI.Label (new Rect(284, 1200, 100, 60), count.ToString (), style);
-			GUI.Label (new Rect(284, 1050, 100, 60), timeLeft > 8 ? "COUNT!" : timeLeft.ToString (), style);
+			GUI.Label (new Rect(284, 1100, 100, 60), timeLeft > 8 ? "COUNT!" : timeLeft.ToString (), style);
 			GUI.matrix = orig;
 		}
 	}

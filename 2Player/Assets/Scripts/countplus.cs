@@ -1,13 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class plus : MonoBehaviour {
+public class countplus : MonoBehaviour {
 
 	public GameObject linkedCounter;
 	counter countScript;
-	int lastEvent;
-	
-	bool wasLastClicked = false;
 	
 	public void Start()
 	{
@@ -16,15 +13,6 @@ public class plus : MonoBehaviour {
 	
 	public void onClick()
 	{
-		if (!wasLastClicked)
-		{
-			countScript.add ();
-			wasLastClicked = true;
-		}
-	}
-	
-	public void noClick()
-	{
-		wasLastClicked = false;
+		countScript.add ();
 	}
 }

@@ -1,12 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class minus : MonoBehaviour {
+public class countminus : MonoBehaviour {
 
 	public GameObject linkedCounter;
 	counter countScript;
 	
-	bool wasLastClicked = false;
 	
 	public void Start()
 	{
@@ -15,15 +14,6 @@ public class minus : MonoBehaviour {
 	
 	public void onClick()
 	{
-		if (!wasLastClicked)
-		{
-			countScript.subtract ();
-			wasLastClicked = true;
-		}
-	}
-	
-	public void noClick()
-	{
-		wasLastClicked = false;
+		countScript.subtract ();
 	}
 }

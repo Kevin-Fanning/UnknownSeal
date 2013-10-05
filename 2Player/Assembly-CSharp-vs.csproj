@@ -45,11 +45,23 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\MenuGUI.cs" />
+     <Compile Include="Assets\Scripts\background.cs" />
+     <Compile Include="Assets\Scripts\controls.cs" />
      <Compile Include="Assets\Scripts\countManager.cs" />
      <Compile Include="Assets\Scripts\countable.cs" />
      <Compile Include="Assets\Scripts\counter.cs" />
      <Compile Include="Assets\Scripts\countminus.cs" />
      <Compile Include="Assets\Scripts\countplus.cs" />
+     <Compile Include="Assets\Scripts\end.cs" />
+     <Compile Include="Assets\Scripts\equationManager.cs" />
+     <Compile Include="Assets\Scripts\equationRightWrong.cs" />
+     <Compile Include="Assets\Scripts\fruitButton.cs" />
+     <Compile Include="Assets\Scripts\fruitManager.cs" />
+     <Compile Include="Assets\Scripts\leftrightButton.cs" />
+     <Compile Include="Assets\Scripts\leftrightManager.cs" />
+     <Compile Include="Assets\Scripts\pongBall.cs" />
+     <Compile Include="Assets\Scripts\pongPaddle.cs" />
+     <Compile Include="Assets\Scripts\touchDragScript.cs" />
      <Compile Include="Assets\Scripts\touchScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
