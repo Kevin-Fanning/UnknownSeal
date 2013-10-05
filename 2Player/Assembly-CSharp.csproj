@@ -45,6 +45,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\MenuGUI.cs" />
+     <Compile Include="Assets\Scripts\countManager.cs" />
+     <Compile Include="Assets\Scripts\countable.cs" />
+     <Compile Include="Assets\Scripts\counter.cs" />
+     <Compile Include="Assets\Scripts\countminus.cs" />
+     <Compile Include="Assets\Scripts\countplus.cs" />
+     <Compile Include="Assets\Scripts\touchScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
